@@ -1,5 +1,7 @@
 # Halo, Saya Radit! 👋
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXF6dmd5Y3o1enM0NTBhZndwODdteG1yeHh5bGwzNDRuZWtkMGxvbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3q2tzon8OCC7BqmY/giphy.gif">
+
 ### Full-Stack Developer | Linux Enthusiast | Tech Explorer
 
 Saya adalah seorang developer yang berfokus pada membangun aplikasi web yang cepat, terukur, dan elegan. Saat ini, saya sedang mendalami ekosistem Full-stack dengan **Golang** untuk performa backend yang tangguh dan **TypeScript** untuk frontend yang *type-safe*.
@@ -31,8 +33,8 @@ Saya adalah seorang developer yang berfokus pada membangun aplikasi web yang cep
 
 ## 📊 Statistik GitHub
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[USERNAME_KAMU]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_KAMU]&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pradiptabayuaji23-del&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradiptabayuaji23-del&layout=compact&theme=tokyonight"/>
 </p>
 
 ---

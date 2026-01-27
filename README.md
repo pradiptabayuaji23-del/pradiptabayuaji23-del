@@ -1,12 +1,13 @@
-# Halo, Saya Radit! 👋
+<div align="center">
+<h3>Halo, Saya Radit! 👋</h3>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXF6dmd5Y3o1enM0NTBhZndwODdteG1yeHh5bGwzNDRuZWtkMGxvbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3q2tzon8OCC7BqmY/giphy.gif">
 
 ### Full-Stack Developer | Linux Enthusiast | Tech Explorer
 
 Saya adalah seorang developer yang berfokus pada membangun aplikasi web yang cepat, terukur, dan elegan. Saat ini, saya sedang mendalami ekosistem Full-stack dengan **Golang** untuk performa backend yang tangguh dan **TypeScript** untuk frontend yang *type-safe*.
+</div>
 
----
 
 ## 🚀 Sedang Saya Kerjakan
 - 🛠️ **Template Marketplace**: Membangun platform full-stack untuk menjual template website premium.

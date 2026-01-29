@@ -41,7 +41,7 @@ Saya adalah seorang developer yang berfokus pada membangun aplikasi web yang cep
 ---
 
 ## 📫 Mari Terhubung
-- **LinkedIn**: [linkedin.com/in/pradipta-bayuaji-9b7b62391](https://linkedin.com/in/pradipta-bayuaji-9b7b62391)
+- **LinkedIn**: [linkedin.com/in/pradipta-bayuaji](https://linkedin.com/in/pradipta-bayuaji)
 - **Email**: [raditbayuaji23@gmail.com](mailto:raditbayuaji23@gmail.com)
 
 ---

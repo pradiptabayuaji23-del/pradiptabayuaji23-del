@@ -42,7 +42,7 @@ Saya adalah seorang developer yang berfokus pada membangun aplikasi web yang cep
 
 ## 📫 Mari Terhubung
 - **LinkedIn**: [linkedin.com/in/username](https://linkedin.com/in/username)
-- **Email**: [email@kamu.com](mailto:email@kamu.com)
+- **Email**: [email@kamu.com](mailto:raditbayuaji23@gmail.com)
 
 ---
 *“Code is like humor. When you have to explain it, it’s bad.”*

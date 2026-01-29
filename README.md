@@ -41,8 +41,8 @@ Saya adalah seorang developer yang berfokus pada membangun aplikasi web yang cep
 ---
 
 ## 📫 Mari Terhubung
-- **LinkedIn**: [linkedin.com/in/username](https://linkedin.com/in/username)
-- **Email**: [email@kamu.com](mailto:raditbayuaji23@gmail.com)
+- **LinkedIn**: [linkedin.com/in/pradipta-bayuaji-9b7b62391](https://linkedin.com/in/pradipta-bayuaji-9b7b62391)
+- **Email**: [raditbayuaji23@gmail.com](mailto:raditbayuaji23@gmail.com)
 
 ---
 *“Code is like humor. When you have to explain it, it’s bad.”*
